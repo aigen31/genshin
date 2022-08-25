@@ -271,6 +271,21 @@ let character = {
       "file": "character_52.jpg",
       "element": "electro"
     },
+    {
+      "name": "Дори",
+      "file": "character_53.jpg",
+      "element": "electro"
+    },
+    {
+      "name": "Коллеи",
+      "file": "character_54.jpg",
+      "element": "dendro"
+    },
+    {
+      "name": "Тигнари",
+      "file": "character_55.jpg",
+      "element": "dendro"
+    },
   ]
 }
 
