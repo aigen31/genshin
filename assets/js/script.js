@@ -242,7 +242,7 @@ let character = {
       "element": "piro"
     },
     {
-      "name": "Джун Ли",
+      "name": "Чжун Ли",
       "file": "character_47.jpg",
       "element": "geo"
     },
